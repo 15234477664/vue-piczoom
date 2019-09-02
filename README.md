@@ -43,4 +43,4 @@ show-edit | 是否显示旋转图片按钮  | boolean fasle
 ![zoom2.gif](http://upload-images.jianshu.io/upload_images/6651371-e26a702c2ef8651a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### Demo 示例
-[在线示例](https://826327700.github.io/vue-piczoom/dist/ "图片放大镜")
+[在线示例](https://15234477664.github.io/vue-piczoom/dist/ "图片放大镜")
